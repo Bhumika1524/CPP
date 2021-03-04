@@ -1,9 +1,9 @@
 #include <iostream>
-
 using namespace std;
 
 int main()
 {
+    cout<<"\t\t\tSize of all Data Types in C++\n";
     
     cout<<"Size of Char : "<<sizeof(char)<<" byte\n";
     cout<<"Size of Int : "<<sizeof(int)<<" bytes\n";
@@ -12,3 +12,4 @@ int main()
 
     return 0;
 }
+
